@@ -10,3 +10,9 @@ The End<br>
 Nether Fortress<br>
 Global Multi-Player<br>
 Server Hosting<br>
+
+# Need any help?
+Join our Discord Server for support, bug reports, chats, to get notified for updates, and much more.
+
+# Release date?
+We hope to release MineDroid 3D by the end of October, but depending on how development goes, maybe later.
